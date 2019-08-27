@@ -1,0 +1,207 @@
+
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
+
+<style>
+
+.exploding-chev.hovered .sr1,
+.exploding-chev.hovered .st2,
+.exploding-chev.hovered .sr2,
+.exploding-chev.hovered .st7,
+.exploding-chev.hovered .sr7,
+.exploding-chev.hovered .st9,
+.exploding-chev.hovered .sr9,
+.exploding-chev.hovered .sr19,
+.exploding-chev.hovered .st19,
+.exploding-chev.hovered .st20,
+.exploding-chev.hovered .sr20,
+.exploding-chev.hovered .st21,
+.exploding-chev.hovered .sr21{fill:#3bb8bc;}.exploding-chev.hovered .st3,
+.exploding-chev.hovered .sr3,
+.exploding-chev.hovered .st11,
+.exploding-chev.hovered .sr11,
+.exploding-chev.hovered .st14,
+.exploding-chev.hovered .sr14,
+.exploding-chev.hovered .st23,
+.exploding-chev.hovered .sr23,
+.exploding-chev.hovered .st25,
+.exploding-chev.hovered .sr25{fill:#432768;}.exploding-chev.hovered .st4,
+.exploding-chev.hovered .sr4,
+.exploding-chev.hovered .st22,
+.exploding-chev.hovered .sr22,
+.exploding-chev.hovered .st27,
+.exploding-chev.hovered .sr27{fill:#f9b21a;}.exploding-chev.hovered .st6,
+.exploding-chev.hovered .sr6,
+.exploding-chev.hovered .st8,
+.exploding-chev.hovered .sr8,
+.exploding-chev.hovered .st15,
+.exploding-chev.hovered .sr15,
+.exploding-chev.hovered .st16,
+.exploding-chev.hovered .sr16{fill:#a6d9e5;}.exploding-chev.hovered .st10,
+.exploding-chev.hovered .sr10{fill:#e84910;}.exploding-chev.hovered .st5,
+.exploding-chev.hovered .sr5,
+.exploding-chev.hovered .st12,
+.exploding-chev.hovered .sr12,
+.exploding-chev.hovered .st13,
+.exploding-chev.hovered .sr13,
+.exploding-chev.hovered .st18,
+.exploding-chev.hovered .sr18,
+.exploding-chev.hovered .st24,
+.exploding-chev.hovered .sr24,
+.exploding-chev.hovered .st26,
+.exploding-chev.hovered .sr26{fill:transparent;stroke:#3bb8bc;stroke-width:2px;}.exploding-chev.hovered .st17,
+.exploding-chev.hovered .sr17{fill:transparent;stroke:#e84910;stroke-width:2px;}.exploding-chev.hovered .st1{transform:translate(46rem,-26rem) rotate(9deg)}.exploding-chev.hovered .st2{transform:translate(-35rem,30rem) rotate(-19deg)}.exploding-chev.hovered .st3{transform:translate(-60rem,-15rem) rotate(0deg)}.exploding-chev.hovered .st4{transform:translate(-22rem,37rem) rotate(7deg)}.exploding-chev.hovered .st5{transform:translate(-21vw,-20vw) rotate(-26deg)}.exploding-chev.hovered .st6{transform:translate(-10vw,32vw) rotate(-17deg);}.exploding-chev.hovered .st7{transform:translate(-48rem,-45rem) rotate(-6deg)}.exploding-chev.hovered .st8{transform:translate(41rem,14rem) rotate(9deg)}.exploding-chev.hovered .st9{transform:translate(44rem,17rem) rotate(20deg);}.exploding-chev.hovered .st10{transform:translate(4rem,15rem) rotate(24deg);}.exploding-chev.hovered .st11{transform:translate(0rem,25rem) rotate(52deg);}.exploding-chev.hovered .st12{transform:translate(0rem,5vw) rotate(3deg);}.exploding-chev.hovered .st13{transform:translate(-92rem,6vw) rotate(0deg);}.exploding-chev.hovered .st14{transform:translate(11vw,-7vw) rotate(9deg);}.exploding-chev.hovered .st15{transform:translate(22rem,-35rem) rotate(-35deg);}.exploding-chev.hovered .st16{transform:translate(6vw,-13vw) rotate(9deg);}.exploding-chev.hovered .st17{transform:translate(6rem,-34rem) rotate(13deg);}.exploding-chev.hovered .st18{transform:translate(43vw,-18vw) rotate(1deg)}.exploding-chev.hovered .st19{transform:translate(36rem,-51rem) rotate(87deg);}.exploding-chev.hovered .st20{transform:translate(35rem,64rem) rotate(47deg);}.exploding-chev.hovered .st21{transform:translate(24rem,-51rem) rotate(15deg);}.exploding-chev.hovered .st22{transform:translate(-19rem,-62rem) rotate(23deg);}.exploding-chev.hovered .st23{transform:translate(120rem,49rem) rotate(130deg);}.exploding-chev.hovered .st24{transform:translate(-26rem,45rem) rotate(24deg);}.exploding-chev.hovered .st25{transform:translate(107rem,-75rem) rotate(34deg);}.exploding-chev.hovered .st26{transform:translate(-15rem,37rem) rotate(-5deg);}.exploding-chev.hovered .st27{transform:translate(40rem,-74rem) rotate(12deg);}.exploding-chev.hovered .sr1{transform:translate(-16rem,-63rem) rotate(-19deg);}.exploding-chev.hovered .sr2{transform:translate(-33rem,+15rem) rotate(8deg);}.exploding-chev.hovered .sr3{transform:translate(47rem,-116rem) rotate(-29deg);}.exploding-chev.hovered .sr4{transform:translate(-27rem,+23rem) rotate(9deg);}.exploding-chev.hovered .sr5{transform:translate(-32vw,10vw) rotate(5deg)}.exploding-chev.hovered .sr6{transform:translate(54rem,30rem) rotate(19deg);}.exploding-chev.hovered .sr7{transform:translate(-48rem,-45rem) rotate(-6deg)}.exploding-chev.hovered .sr8{transform:translate(41rem,14rem) rotate(9deg)}.exploding-chev.hovered .sr9{transform:translate(44rem,+17rem) rotate(20deg);}.exploding-chev.hovered .sr10{transform:translate(4rem,+15rem) rotate(24deg);}.exploding-chev.hovered .sr11{transform:translate(5rem,32rem) rotate(19deg);}.exploding-chev.hovered .sr12{transform:translate(+8vw,+8vw) rotate(9deg);}.exploding-chev.hovered .sr13{transform:translate(+9vw,+6vw) rotate(9deg);}.exploding-chev.hovered .sr14{transform:translate(+11vw,-7vw) rotate(41deg);}.exploding-chev.hovered .sr15{transform:translate(+23rem,-61rem) rotate(-8deg);}.exploding-chev.hovered .sr16{transform:translate(+12vw,-27vw) rotate(54deg);}.exploding-chev.hovered .sr17{transform:translate(-24rem,-19rem) rotate(16deg);}.exploding-chev.hovered .sr18{transform:translate(33vw,-3vw) rotate(179deg)}.exploding-chev.hovered .sr19{transform:translate(+6vw,-5vw) rotate(9deg);}.exploding-chev.hovered .sr20{transform:translate(+27rem,+3rem) rotate(6deg);}.exploding-chev.hovered .sr21{transform:translate(79rem,-62rem) rotate(38deg);}.exploding-chev.hovered .sr22{transform:translate(-112rem,-44rem) rotate(-16deg);}.exploding-chev.hovered .sr23{transform:translate(-24rem,62rem) rotate(-150deg);}.exploding-chev.hovered .sr24{transform:translate(26rem,-34rem) rotate(-169deg)}.exploding-chev.hovered .sr25{transform:translate(107rem,-75rem) rotate(34deg);}.exploding-chev.hovered .sr26{transform:translate(28rem,1rem) rotate(-14deg) scale(.8);}.exploding-chev.hovered .sr27{transform:translate(164rem,-21rem) rotate(64deg);}.exploding-chev.hovered .scale-holograph{transform:rotate(0deg) scale(1);transform-origin:center;}#content-container .exploding-shevs .-sys-dbnewpicture{overflow:visible;}.exploding-shevs{width:300px;height:390px;top:0;margin:auto;}.exploding-shevs .home-shev-1{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;top:0;right:-10px;transform:rotate(-23deg);}.exploding-shevs .home-shev-2{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;bottom:-104px;left:-35px;transform:rotate(-62deg);}.exploding-shevs .home-shev-3{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;top:70px;right:-100px;transform:rotate(219deg);}.exploding-shevs .home-shev-4{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;top:70px;right:0px;transform:rotate(-246deg);}.exploding-shevs .home-shev-5{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;bottom:100px;left:28px;transform:rotate(-62deg);}.exploding-shevs .home-shev-6{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;top:90px;right:-100px;transform:rotate(47deg);}.exploding-shevs .home-shev-7{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;top:80px;left:-35px;transform:rotate(20deg);}.exploding-shevs .home-shev-8{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;top:-15px;left:-45px;transform:rotate(37deg);}.exploding-shevs .home-shev-9{-webkit-transition:all 0.1s ease 0.05s;transition:all 1.4s ease 0.1s;top:70px;right:-100px;transform:rotate(243deg);}.exploding-shevs:hover .home-shev-1{top:-160px;right:-100px;transform:rotate(45deg)}.exploding-shevs:hover .home-shev-2{bottom:-360px;left:-100px;transform:rotate(0deg)}.exploding-shevs:hover .home-shev-3{top:-200px;right:250px;transform:rotate(100deg)}.exploding-shevs:hover .home-shev-4{top:-180px;right:-143px;transform:rotate(-145deg)}.exploding-shevs:hover .home-shev-5{bottom:-360px;left:-100px;transform:rotate(0deg)}.exploding-shevs:hover .home-shev-6{top:-200px;right:250px;transform:rotate(200deg)}.exploding-shevs:hover .home-shev-7{top:240px;left:-100px;transform:rotate(75deg)}.exploding-shevs:hover .home-shev-8{top:-160px;right:-100px;transform:rotate(-50deg)}.exploding-shevs:hover .home-shev-9{top:-200px;right:-250px;transform:rotate(100deg)}
+
+</style>
+    <g id="Layer_1">
+	
+        <radialGradient id="SVGID_1_" cx="640" cy="512.3829" r="548.3344" gradientTransform="matrix(1 0 0 0.6 0 204.9531)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" style="stop-color:#432667"></stop>
+            <stop offset="0.5553" style="stop-color:#452667"></stop>
+            <stop offset="0.7554" style="stop-color:#4C2667"></stop>
+            <stop offset="0.8974" style="stop-color:#572667"></stop>
+            <stop offset="1" style="stop-color:#662667"></stop>
+          </radialGradient>
+          <polygon class="st0" points="158.7,435.5 0,678.2 207.7,683.9 328.2,867.4 499.4,755 688.7,950.3 715.9,718.6 808,793.3 882.3,753 
+            885.7,922.1 1063.9,874.8 929.9,727.2 988,695.8 1215.7,816 1194.6,713.7 1236.4,753 1280,652.2 1201.4,657.2 1280,550.4 
+            1197.9,399.1 1265.9,299.5 1038.3,344.6 879.6,181.3 778.2,310.8 655,74.5 526.6,244.3 525,143.7 351.2,194.1 398.5,244.3 
+            328.2,209.1 300.1,448.8 97.5,275.9 	"></polygon>
+      <g class="scale-holograph">
+        <path class="cream" d="M237.1,625.8v-65h-36.2v65H166V470.4h34.9v58.8h36.2v-58.8H272v155.4H237.1z"></path>
+        <path class="cream" d="M401.6,547.7c0,12.3-1.4,23.5-4.2,33.7c-2.8,10.2-6.7,18.8-11.9,26c-5.1,7.2-11.4,12.7-18.8,16.7
+          c-7.4,4-15.7,5.9-24.9,5.9s-17.5-2-24.9-5.9c-7.4-3.9-13.6-9.5-18.8-16.7c-5.1-7.2-9.1-15.8-11.9-26c-2.8-10.2-4.2-21.4-4.2-33.7
+          s1.3-23.4,4.1-33.5c2.7-10,6.6-18.6,11.8-25.7c5.1-7.1,11.4-12.6,18.8-16.5c7.4-3.9,15.8-5.8,25.1-5.8c9.2,0,17.5,1.9,24.9,5.8
+          c7.4,3.9,13.6,9.4,18.8,16.5c5.1,7.1,9.1,15.7,11.9,25.7C400.2,524.3,401.6,535.4,401.6,547.7z M365.6,547.7
+          c0-6.7-0.5-13-1.5-18.8c-1-5.8-2.5-10.8-4.5-15c-2-4.2-4.4-7.6-7.3-10c-2.9-2.4-6.4-3.6-10.3-3.6s-7.4,1.2-10.4,3.6
+          c-3,2.4-5.5,5.7-7.4,10c-2,4.3-3.4,9.3-4.4,15c-0.9,5.8-1.4,12-1.4,18.8c0,6.7,0.5,13,1.4,18.9c0.9,5.9,2.4,10.9,4.4,15.1
+          c2,4.3,4.4,7.6,7.4,10.1c3,2.5,6.5,3.7,10.4,3.7s7.4-1.2,10.3-3.7c2.9-2.5,5.4-5.8,7.3-10.1c2-4.2,3.5-9.3,4.5-15.1
+          C365.1,560.7,365.6,554.4,365.6,547.7z"></path>
+        <path class="cream" d="M411.8,625.8V470.4h35.6v122.9h41.5v32.5H411.8z"></path>
+        <path class="cream" d="M608,547.7c0,12.3-1.4,23.5-4.2,33.7c-2.8,10.2-6.7,18.8-11.9,26c-5.1,7.2-11.4,12.7-18.8,16.7
+          c-7.4,4-15.7,5.9-24.9,5.9s-17.5-2-24.9-5.9c-7.4-3.9-13.6-9.5-18.8-16.7c-5.1-7.2-9.1-15.8-11.9-26c-2.8-10.2-4.2-21.4-4.2-33.7
+          s1.3-23.4,4.1-33.5c2.7-10,6.6-18.6,11.8-25.7c5.1-7.1,11.4-12.6,18.8-16.5c7.4-3.9,15.8-5.8,25.1-5.8c9.2,0,17.5,1.9,24.9,5.8
+          c7.4,3.9,13.6,9.4,18.8,16.5c5.1,7.1,9.1,15.7,11.9,25.7C606.6,524.3,608,535.4,608,547.7z M572,547.7c0-6.7-0.5-13-1.5-18.8
+          c-1-5.8-2.5-10.8-4.5-15c-2-4.2-4.4-7.6-7.3-10c-2.9-2.4-6.4-3.6-10.3-3.6s-7.4,1.2-10.4,3.6c-3,2.4-5.5,5.7-7.4,10
+          c-2,4.3-3.4,9.3-4.4,15c-0.9,5.8-1.4,12-1.4,18.8c0,6.7,0.5,13,1.4,18.9c0.9,5.9,2.4,10.9,4.4,15.1c2,4.3,4.4,7.6,7.4,10.1
+          c3,2.5,6.5,3.7,10.4,3.7s7.4-1.2,10.3-3.7c2.9-2.5,5.4-5.8,7.3-10.1c2-4.2,3.5-9.3,4.5-15.1C571.5,560.7,572,554.4,572,547.7z"></path>
+        <path class="cream" d="M704.5,626.2c-7,2.3-15.3,3.5-24.8,3.5c-9.8,0-18.6-2-26.2-5.9c-7.7-4-14.2-9.5-19.5-16.6
+          c-5.4-7.1-9.4-15.6-12.3-25.6c-2.8-9.9-4.3-21-4.3-33.1s1.4-23.2,4.3-33.2c2.9-10,6.9-18.7,12.2-25.9s11.6-12.8,19-16.8
+          c7.4-4,15.6-5.9,24.7-5.9c10.5,0,19.3,1.8,26.4,5.4c7.1,3.6,12.7,8.1,16.8,13.5l-19.1,25.7c-5.3-7.3-12.5-11-21.6-11
+          c-4.9,0-9,1.3-12.6,3.8c-3.5,2.6-6.5,6-8.8,10.4c-2.3,4.4-4.1,9.5-5.2,15.4c-1.1,5.9-1.7,12.1-1.7,18.7s0.5,12.8,1.5,18.7
+          c1,5.9,2.7,11,5,15.4c2.3,4.4,5.2,7.9,8.6,10.5c3.5,2.6,7.6,3.9,12.5,3.9c5.3,0,9.4-1.1,12.4-3.3v-29h-16.7v-30.5h47.4v82.7
+          C717.5,620.7,711.5,623.8,704.5,626.2z"></path>
+        <path class="cream" d="M798.7,625.8l-20.8-61.9h-10.3v61.9h-33.8V470.4h49.7c15,0,26.7,3.9,35,11.7c8.3,7.8,12.5,19.5,12.5,35
+          c0,5.7-0.7,10.8-2,15.4c-1.3,4.5-3,8.4-5.1,11.6c-2.1,3.2-4.5,5.8-7.1,7.9c-2.6,2.1-5.2,3.5-7.7,4.4l26.5,69.4H798.7z
+          M796.6,519.2c0-3.9-0.6-7.2-1.7-9.7c-1.1-2.5-2.5-4.5-4.3-5.9c-1.8-1.5-3.7-2.4-5.8-3c-2.1-0.5-4.2-0.8-6.3-0.8h-11v39.3h10.3
+          c5,0,9.3-1.6,13.1-4.7C794.7,531.3,796.6,526.2,796.6,519.2z"></path>
+        <path class="cream" d="M928,625.8l-6.4-28.3h-34.9l-6.4,28.3h-35.1L883,470.4h44.1l37.5,155.4H928z M904.7,504.2h-0.9l-13.2,66.1
+          h26.5L904.7,504.2z"></path>
+        <path class="cream" d="M1070.8,519.2c0,8.6-1.3,16.1-3.9,22.4c-2.6,6.3-6.1,11.5-10.5,15.6c-4.4,4.1-9.4,7.1-14.9,9.1
+          c-5.6,2-11.2,3-16.9,3h-15.1v56.6h-34.5V470.4h48.3c5.6,0,11.1,0.8,16.8,2.4c5.6,1.6,10.8,4.3,15.4,8c4.6,3.7,8.3,8.7,11.2,15
+          C1069.3,502.2,1070.8,509.9,1070.8,519.2z M1037.9,519.8c0-7-1.7-12.1-5.1-15.1c-3.4-3.1-7.5-4.6-12.3-4.6h-11.2v40.6h11.2
+          c4.8,0,8.9-1.8,12.3-5.4C1036.2,531.7,1037.9,526.6,1037.9,519.8z"></path>
+        <path class="cream" d="M1152.1,625.8v-65h-36.2v65H1081V470.4h34.9v58.8h36.2v-58.8h34.9v155.4H1152.1z"></path>
+      </g>
+    </g>
+    <g id="Layer_2" class="">
+      <polygon class="single-chev st1" points="988,696 1140,661 1194.6,713.7"></polygon>
+      <polygon class="single-chev st1" points="881,674 1140,661 988,696"></polygon>
+      <polygon class="single-chev st1" points="159,435 300,449 97,276"></polygon>
+      <polygon class="single-chev st2" points="0,678 159,435 300,449"></polygon>
+      <polygon class="single-chev st3" points="208,684 300,449 0,678"></polygon>
+      <polygon class="single-chev st4" points="328,867 499,755 208,684"></polygon>
+      <polygon class="single-chev st5" points="300,449 499,755 208,684"></polygon>
+      <polygon class="single-chev st6" points="689,950 716,719 499,755"></polygon>
+      <polygon class="single-chev st7" points="300,449 716,719 499,755"></polygon>
+      <polygon class="single-chev st8" points="886,922 1064,875 881,674"></polygon>
+      <polygon class="single-chev st9" points="716,719 882.3,753 808,793"></polygon>
+      <polygon class="single-chev st10" points="881,674 716,719 882,753"></polygon>
+      <polygon class="single-chev st11" points="988,696 881,674 929.9,727.2"></polygon>
+      <polygon class="single-chev st12" points="1195,713 988,696 1216,816"></polygon>
+      <polygon class="single-chev st13" points="1280,652 1236,753 1140,661"></polygon>
+      <polygon class="single-chev st14" points="1280,550 1140,661 1201.4,657.2"></polygon>
+      <path class="single-chev st1" d="M351,194c-2,0,174-50,174-50l3,244L351,194z"></path>
+      <polygon class="single-chev st15" points="300,449 398.5,244.3 328,209"></polygon>
+      <polygon class="single-chev st16" points="528,388 398,244 300,449"></polygon>
+      <polygon class="single-chev st17" points="655,75 778,311 526.6,244.3"></polygon>
+      <polygon class="single-chev st18" points="528,388 778,311 527,244"></polygon>
+      <polygon class="single-chev st19" points="1040,347 776,310 880,180"></polygon>
+      <polygon class="single-chev st20" points="1273,298 1032,344 1198,399"></polygon>
+      <polygon class="single-chev st21" points="1280,550 1198,399 1140,661"></polygon>
+      <polygon class="single-chev st22" points="716,719 528,388 300,449"></polygon>
+      <polygon class="single-chev st23" points="778,311 716,719 528,388"></polygon>
+      <polygon class="single-chev st24" points="881,674 778,311 716,719"></polygon>
+      <polygon class="single-chev st25" points="1038,346 1140,661 1198,399"></polygon>
+      <polygon class="single-chev st26" points="881,674 1038,346 1140,661"></polygon>
+      <polygon class="single-chev st27" points="778,311 1038,346 881,674"></polygon>
+    </g>
+    <g id="Layer_2" class="">
+        <polygon class="single-chev sr1" points="988,696 1140,661 1194.6,713.7"></polygon>
+        <polygon class="single-chev sr1" points="881,674 1140,661 988,696"></polygon>
+        <polygon class="single-chev sr1" points="159,435 300,449 97,276"></polygon>
+        <polygon class="single-chev sr2" points="0,678 159,435 300,449"></polygon>
+        <polygon class="single-chev sr3" points="208,684 300,449 0,678"></polygon>
+        <polygon class="single-chev sr4" points="328,867 499,755 208,684"></polygon>
+        <polygon class="single-chev sr5" points="300,449 499,755 208,684"></polygon>
+        <polygon class="single-chev sr6" points="689,950 716,719 499,755"></polygon>
+        <polygon class="single-chev sr7" points="300,449 716,719 499,755"></polygon>
+        <polygon class="single-chev sr8" points="886,922 1064,875 881,674"></polygon>
+        <polygon class="single-chev sr9" points="716,719 882.3,753 808,793"></polygon>
+        <polygon class="single-chev sr10" points="881,674 716,719 882,753"></polygon>
+        <polygon class="single-chev sr11" points="988,696 881,674 929.9,727.2"></polygon>
+        <polygon class="single-chev sr12" points="1195,713 988,696 1216,816"></polygon>
+        <polygon class="single-chev sr13" points="1280,652 1236,753 1140,661"></polygon>
+        <polygon class="single-chev sr14" points="1280,550 1140,661 1201.4,657.2"></polygon>
+        <path class="single-chev sr1" d="M351,194c-2,0,174-50,174-50l3,244L351,194z"></path>
+        <polygon class="single-chev sr15" points="300,449 398.5,244.3 328,209"></polygon>
+        <polygon class="single-chev sr16" points="528,388 398,244 300,449"></polygon>
+        <polygon class="single-chev sr17" points="655,75 778,311 526.6,244.3"></polygon>
+        <polygon class="single-chev sr18" points="528,388 778,311 527,244"></polygon>
+        <polygon class="single-chev sr19" points="1040,347 776,310 880,180"></polygon>
+        <polygon class="single-chev sr20" points="1273,298 1032,344 1198,399"></polygon>
+        <polygon class="single-chev sr21" points="1280,550 1198,399 1140,661"></polygon>
+        <polygon class="single-chev sr22" points="716,719 528,388 300,449"></polygon>
+        <polygon class="single-chev sr23" points="778,311 716,719 528,388"></polygon>
+        <polygon class="single-chev sr24" points="881,674 778,311 716,719"></polygon>
+        <polygon class="single-chev sr25" points="1038,346 1140,661 1198,399"></polygon>
+        <polygon class="single-chev sr26" points="881,674 1038,346 1140,661"></polygon>
+        <polygon class="single-chev sr27" points="778,311 1038,346 881,674"></polygon>
+    </g>
+    <g class="">
+        <path class="meteorite " d="M237.1,625.8v-65h-36.2v65H166V470.4h34.9v58.8h36.2v-58.8H272v155.4H237.1z"></path>
+        <path class="meteorite " d="M401.6,547.7c0,12.3-1.4,23.5-4.2,33.7c-2.8,10.2-6.7,18.8-11.9,26c-5.1,7.2-11.4,12.7-18.8,16.7
+          c-7.4,4-15.7,5.9-24.9,5.9s-17.5-2-24.9-5.9c-7.4-3.9-13.6-9.5-18.8-16.7c-5.1-7.2-9.1-15.8-11.9-26c-2.8-10.2-4.2-21.4-4.2-33.7
+          s1.3-23.4,4.1-33.5c2.7-10,6.6-18.6,11.8-25.7c5.1-7.1,11.4-12.6,18.8-16.5c7.4-3.9,15.8-5.8,25.1-5.8c9.2,0,17.5,1.9,24.9,5.8
+          c7.4,3.9,13.6,9.4,18.8,16.5c5.1,7.1,9.1,15.7,11.9,25.7C400.2,524.3,401.6,535.4,401.6,547.7z M365.6,547.7
+          c0-6.7-0.5-13-1.5-18.8c-1-5.8-2.5-10.8-4.5-15c-2-4.2-4.4-7.6-7.3-10c-2.9-2.4-6.4-3.6-10.3-3.6s-7.4,1.2-10.4,3.6
+          c-3,2.4-5.5,5.7-7.4,10c-2,4.3-3.4,9.3-4.4,15c-0.9,5.8-1.4,12-1.4,18.8c0,6.7,0.5,13,1.4,18.9c0.9,5.9,2.4,10.9,4.4,15.1
+          c2,4.3,4.4,7.6,7.4,10.1c3,2.5,6.5,3.7,10.4,3.7s7.4-1.2,10.3-3.7c2.9-2.5,5.4-5.8,7.3-10.1c2-4.2,3.5-9.3,4.5-15.1
+          C365.1,560.7,365.6,554.4,365.6,547.7z"></path>
+        <path class="meteorite " d="M411.8,625.8V470.4h35.6v122.9h41.5v32.5H411.8z"></path>
+        <path class="meteorite " d="M608,547.7c0,12.3-1.4,23.5-4.2,33.7c-2.8,10.2-6.7,18.8-11.9,26c-5.1,7.2-11.4,12.7-18.8,16.7
+          c-7.4,4-15.7,5.9-24.9,5.9s-17.5-2-24.9-5.9c-7.4-3.9-13.6-9.5-18.8-16.7c-5.1-7.2-9.1-15.8-11.9-26c-2.8-10.2-4.2-21.4-4.2-33.7
+          s1.3-23.4,4.1-33.5c2.7-10,6.6-18.6,11.8-25.7c5.1-7.1,11.4-12.6,18.8-16.5c7.4-3.9,15.8-5.8,25.1-5.8c9.2,0,17.5,1.9,24.9,5.8
+          c7.4,3.9,13.6,9.4,18.8,16.5c5.1,7.1,9.1,15.7,11.9,25.7C606.6,524.3,608,535.4,608,547.7z M572,547.7c0-6.7-0.5-13-1.5-18.8
+          c-1-5.8-2.5-10.8-4.5-15c-2-4.2-4.4-7.6-7.3-10c-2.9-2.4-6.4-3.6-10.3-3.6s-7.4,1.2-10.4,3.6c-3,2.4-5.5,5.7-7.4,10
+          c-2,4.3-3.4,9.3-4.4,15c-0.9,5.8-1.4,12-1.4,18.8c0,6.7,0.5,13,1.4,18.9c0.9,5.9,2.4,10.9,4.4,15.1c2,4.3,4.4,7.6,7.4,10.1
+          c3,2.5,6.5,3.7,10.4,3.7s7.4-1.2,10.3-3.7c2.9-2.5,5.4-5.8,7.3-10.1c2-4.2,3.5-9.3,4.5-15.1C571.5,560.7,572,554.4,572,547.7z"></path>
+        <path class="meteorite  " d="M704.5,626.2c-7,2.3-15.3,3.5-24.8,3.5c-9.8,0-18.6-2-26.2-5.9c-7.7-4-14.2-9.5-19.5-16.6
+          c-5.4-7.1-9.4-15.6-12.3-25.6c-2.8-9.9-4.3-21-4.3-33.1s1.4-23.2,4.3-33.2c2.9-10,6.9-18.7,12.2-25.9s11.6-12.8,19-16.8
+          c7.4-4,15.6-5.9,24.7-5.9c10.5,0,19.3,1.8,26.4,5.4c7.1,3.6,12.7,8.1,16.8,13.5l-19.1,25.7c-5.3-7.3-12.5-11-21.6-11
+          c-4.9,0-9,1.3-12.6,3.8c-3.5,2.6-6.5,6-8.8,10.4c-2.3,4.4-4.1,9.5-5.2,15.4c-1.1,5.9-1.7,12.1-1.7,18.7s0.5,12.8,1.5,18.7
+          c1,5.9,2.7,11,5,15.4c2.3,4.4,5.2,7.9,8.6,10.5c3.5,2.6,7.6,3.9,12.5,3.9c5.3,0,9.4-1.1,12.4-3.3v-29h-16.7v-30.5h47.4v82.7
+          C717.5,620.7,711.5,623.8,704.5,626.2z"></path>
+        <path class="meteorite  " d="M798.7,625.8l-20.8-61.9h-10.3v61.9h-33.8V470.4h49.7c15,0,26.7,3.9,35,11.7c8.3,7.8,12.5,19.5,12.5,35
+          c0,5.7-0.7,10.8-2,15.4c-1.3,4.5-3,8.4-5.1,11.6c-2.1,3.2-4.5,5.8-7.1,7.9c-2.6,2.1-5.2,3.5-7.7,4.4l26.5,69.4H798.7z
+          M796.6,519.2c0-3.9-0.6-7.2-1.7-9.7c-1.1-2.5-2.5-4.5-4.3-5.9c-1.8-1.5-3.7-2.4-5.8-3c-2.1-0.5-4.2-0.8-6.3-0.8h-11v39.3h10.3
+          c5,0,9.3-1.6,13.1-4.7C794.7,531.3,796.6,526.2,796.6,519.2z"></path>
+        <path class="meteorite " d="M928,625.8l-6.4-28.3h-34.9l-6.4,28.3h-35.1L883,470.4h44.1l37.5,155.4H928z M904.7,504.2h-0.9l-13.2,66.1
+          h26.5L904.7,504.2z"></path>
+        <path class="meteorite " d="M1070.8,519.2c0,8.6-1.3,16.1-3.9,22.4c-2.6,6.3-6.1,11.5-10.5,15.6c-4.4,4.1-9.4,7.1-14.9,9.1
+          c-5.6,2-11.2,3-16.9,3h-15.1v56.6h-34.5V470.4h48.3c5.6,0,11.1,0.8,16.8,2.4c5.6,1.6,10.8,4.3,15.4,8c4.6,3.7,8.3,8.7,11.2,15
+          C1069.3,502.2,1070.8,509.9,1070.8,519.2z M1037.9,519.8c0-7-1.7-12.1-5.1-15.1c-3.4-3.1-7.5-4.6-12.3-4.6h-11.2v40.6h11.2
+          c4.8,0,8.9-1.8,12.3-5.4C1036.2,531.7,1037.9,526.6,1037.9,519.8z"></path>
+        <path class="meteorite " d="M1152.1,625.8v-65h-36.2v65H1081V470.4h34.9v58.8h36.2v-58.8h34.9v155.4H1152.1z"></path>
+      </g>
+  
+  </svg>

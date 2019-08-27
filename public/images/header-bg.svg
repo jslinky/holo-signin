@@ -1,0 +1,16 @@
+
+<svg width="832px" height="59px" viewBox="0 0 832 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="0 20 251.417004 74 494.089069 74 772.314142 0.5 900 124 600 124 300 124 0 124"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet">
+            <g id="wave" transform="translate(449.000000, -3.000000) scale(1, -1) translate(-449.000000, 3.000000) translate(-1.000000, -65.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Path" fill="#442666" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
