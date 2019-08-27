@@ -2,7 +2,7 @@
   <nav role="navigation" class="c-main-nav">
     <h3 class="c-main-nav__title">Show</h3>
     <div class="c-main-nav__links">
-      <a href="#" v-for="(link, index) in nav" @click="setActive(index)" :class="{'active':index == navIndex}">{{link}}</a>
+      <a href="#" v-for="(link, index) in nav" @click.prevent="setActive(index)" :class="{'active':index == navIndex}">{{link}}</a>
     </div>
   </nav>
 </template>
