@@ -1,4 +1,4 @@
-# app
+# Holograph sign in / out task
 
 ## Project setup
 ```
